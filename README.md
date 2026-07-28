@@ -55,6 +55,4 @@ ShareBite AI Rescue Assistant is an upgraded, intelligent food rescue ecosystem.
    npm run dev
    ```
 
-**Developed with ❤️ by [AkNG](https://github.com/workforakng)**  
-*Supporting the global movement for a hunger-free world by 2030.*  
-GitHub: [@workforakng](https://github.com/workforakng)
+
